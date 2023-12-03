@@ -1,0 +1,3 @@
+Webpilot
+Import from URL: https://gpts.webpilot.ai/gpts-openapi.yaml
+Privacy Policy: https://gpts.webpilot.ai/privacy_policy.html
